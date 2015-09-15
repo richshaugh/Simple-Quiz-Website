@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>Cool Quiz</title>
+<meta charset="utf-8">
+<link href="cquizzescss.css" rel="stylesheet" media="screen">
+
+
+</head>
+<body>
+<div id="container">
+  <div id="header">
+   <h1></h1>
+</div>
+  <div id="nav">
+    <ul>
+      <li><a href="index.html">Home</a></li>
+      <li><a href="Maths.html">Maths Quiz</a></li>
+      <li><a href="Picture_Quiz.html">Picture Quiz</a></li>
+      <li><a href="Trivia.html">Trivia Quiz</a></li>
+      <li><a href="About.html">About</a></li>
+  </ul>
+
+  </div>  
+  <div id="sidebar">
+   <h3>Social Media Links</h3>
+     <iframe src="http://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fhttps://www.facebook.com/pages/Cool-Quizzes/1563379003930276?skip_nax_wizard=true&ref_type=logout_gear&amp;layout=box_count&amp;show_faces=true&amp;action=like&amp;colorscheme=light&amp" style="overflow:hidden;width:100%;height:80px;" scrolling="no" frameborder="0" allowTransparency="true"></iframe><style>.fbook{position: absolute; font-color:#ddd; top:-1668px; font-size:10;}</style></style><a href="http://www.addlikebutton.net" class="fbook">www.addlikebutton.net</a><style>.fbook-style_map:initreaction=10false_attempt10-border</style><style>closemap"init"if=fb_connect-start="25"check_bandwith</style>
+	<a href="https://twitter.com/share" class="twitter-share-button" data-via="Rich31_mufc" data-size="large">Tweet</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+<br>
+  <!-- Place this code where you want the badge to render. -->
+<a href="http://plus.google.com/u/0/108365516515522749003?prsrc=3"
+   rel="publisher" target="_top" style="text-decoration:none;display:inline-block;color:#333;text-align:center; font:13px/16px arial,sans-serif;white-space:nowrap;">
+<img src="//ssl.gstatic.com/images/icons/gplus-64.png" alt="" style="border:0;width:64px;height:64px;"/><br />
+<span style="font-weight:bold;">Cool Quizzes</span><br /><span>on Google+</span>
+</a>
+
+
+
+  </div>
+  <div id="content">
+    <p>1.What is the world's longest river?</p>
+
+        <label for="firstvalue">Answer:</label>
+        <input type="text" id="answer1" /><br />
+		
+	  <p>2.In Dante's Inferno, what is the sixth circle?</p>
+
+        <label for="firstvalue">Answer:</label>
+        <input type="text" id="answer2" /><br />
+		
+		  <p>3. What is the mountain that overlooks Rio de Janeiro?</p>
+ 
+        <label for="firstvalue">Answer:</label>
+        <input type="text" id="answer3" /><br />
+		
+		  <p>4. What is Saturn's largest moon?</p>
+  
+        <label for="firstvalue">Answer:</label>
+        <input type="text" id="answer4" /><br />
+		
+			  <p>5. Which Irish county is known as the Faithful County?</p>
+  
+        <label for="firstvalue">Answer:</label>
+        <input type="text" id="answer5" /><br /><br><br>
+        
+
+        <label>&nbsp;</label>
+        <input type="button" id="Submit" value="Submit" />
+      <br />
+    </div>
+
+
+
+
+    <div id="footer"> Copyright &copy; 2015 Cool Quizzes<br>
+    </div>
+  </div>
+</div>
+</body>
+</html>
